@@ -3,7 +3,6 @@ appnope==0.1.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 astor==0.8.1
-asttokens==2.0.5
 attrs==21.4.0
 backcall==0.2.0
 barfi==0.5.0
@@ -20,13 +19,12 @@ debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
-executing==0.8.3
 gitdb==4.0.9
 GitPython==3.1.27
 idna==3.3
 importlib-metadata==4.11.3
 ipykernel==6.9.2
-ipython==8.1.1
+ipython==7.32.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.0
 jedi==0.18.1
@@ -58,7 +56,6 @@ prompt-toolkit==3.0.28
 protobuf==3.19.4
 psutil==5.9.0
 ptyprocess==0.7.0
-pure-eval==0.2.2
 pyarrow==7.0.0
 pycparser==2.21
 pydeck==0.7.1
@@ -76,7 +73,6 @@ Send2Trash==1.8.0
 six==1.16.0
 smmap==5.0.0
 soupsieve==2.3.1
-stack-data==0.2.0
 streamlit==1.7.0
 terminado==0.13.3
 testpath==0.6.0
